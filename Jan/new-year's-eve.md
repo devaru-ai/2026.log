@@ -1,7 +1,7 @@
 # 🎉🍾🍾🎊🥳
 
 ## Hash Maps
-1. Frequency Counting & Lookups 
+1. Frequency Counting & Lookups  &rarr; **100% Done!**
 2. Prefix Sum
 3. Grouping and Isomorphism
 4. Design and System Structure
