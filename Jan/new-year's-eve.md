@@ -1,0 +1,9 @@
+# 🎉🍾🍾🎊🥳
+
+## Hash Maps
+1. Frequency Counting & Lookups 
+2. Prefix Sum
+3. Grouping and Isomorphism
+4. Design and System Structure
+5. Geometry and Grids
+6. Advanced Sequence Logic
